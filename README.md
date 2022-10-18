@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Keinweb & Ivysystems**
 
-- 📄 Know about my experiences [https://www.keinweb.com/about-me](https://www.keinweb.com/about-me)
+- 📄 Know about my experiences [https://www.keinweb.com/#about](https://www.keinweb.com/#about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
