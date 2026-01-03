@@ -2,7 +2,6 @@
 
 ### A passionate developer from germany
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Keinweb&label=Profile views&color=0e75b6&style=flat" alt="Keinweb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Keinweb" alt="Keinweb" /></a> </p>
 
